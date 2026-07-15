@@ -1,4 +1,4 @@
-# Truffle - Ethereum Development Suite for Smart Contract Workflows
+# Truffle Suite - Ethereum Development Suite for Smart Contract Workflows
 
 ![Developer workspace showing contracts, migrations, tests, and a local chain dashboard](https://images.ctfassets.net/gjyjx7gst9lo/1417051074/ad6577dc86595e294b3b8c447eb2543c/Truffle-suite-product.png)
 
